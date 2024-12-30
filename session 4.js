@@ -222,3 +222,15 @@
 //   ),
 //   Math.floor(Math.random() * 100)
 // );
+
+//TODO Post-Session Practice Questions (10):
+//TODO Merge two sorted arrays.
+//TODO Reverse the elements in an array.
+//TODO Find the element with the second-largest frequency.
+//TODO Rotate an array to the left by K positions.
+//TODO Find the difference between the maximum and minimum elements.
+//TODO Search for an element in a sorted array.
+//TODO Find the cumulative sum of an array.
+//TODO Calculate the product of all elements in an array.
+//TODO Check if an array is a palindrome.
+//TODO Find the intersection of two arrays.

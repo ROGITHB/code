@@ -175,4 +175,17 @@ class Stack {
   }
    console.log(evaluatePostfix("1 2 3 4 + - +"));
   
-  
+  // todo Post-Session Practice Questions (10):
+// todo Implement a circular queue.
+// todo Sort a stack using recursion.
+// todo Find the maximum element in a stack in constant time.
+// todo Design a data structure supporting min, max, push, and pop in constant time.
+// todo Reverse the first k elements of a queue.
+// todo Implement a priority queue.
+// todo Find the minimum element in a stack.
+// todo Check if a string can be reduced to an empty string by recursive removal of adjacent duplicates.
+// todo Implement a queue using an array.
+// todo Design a system that supports efficient insertion and retrieval of most recent elements (deque).
+
+
+// ? Design a browser’s forward and backward navigation (stack-based).

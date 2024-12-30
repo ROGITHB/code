@@ -184,3 +184,18 @@
    }
  }
  rightAngledTriangle(5);
+
+
+
+
+
+ // TODO Find the LCM of two numbers.
+// TODO Generate a pyramid pattern of numbers.
+// TODO Calculate the GCD of two numbers.
+// TODO Print an inverted triangle pattern of stars.
+// TODO Check if two numbers are coprime.
+// TODO Print a diamond pattern of stars.
+// TODO Check if a number is an Armstrong number.
+// TODO Print the Pascal’s triangle up to N rows.
+// TODO Find all divisors of a number.
+// TODO Print a checkerboard pattern.

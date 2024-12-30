@@ -180,3 +180,15 @@
  }
 
  console.log(findPeak([1, 3, 5, 7, 10, 14, 13, 12, 9, 7, 5, 4, 3, 2, 1])); 
+
+ // TODO Post-Session Practice Questions (10):
+// TODO Find the floor and ceiling of a target in a sorted array.
+// TODO Find the smallest missing element in a sorted array.
+// TODO Count the number of occurrences of a given element.
+// TODO Perform ternary search on a sorted array.
+// TODO Find the index of a target in an infinite array.
+// TODO Find the minimum element in a rotated sorted array.
+// TODO Count the frequency of elements using a binary search.
+// TODO Find the closest element to a target in a sorted array.
+// TODO Implement an exponential search.
+// TODO Find the peak index in a bitonic array.
